@@ -1,4 +1,4 @@
-#Weather Reporter with Text-to-Speech
+# Weather Reporter with Text-to-Speech
 
 This Python script provides current weather information for a specified city and reads the weather report aloud using the Google Text-to-Speech (gTTS) library.
 
